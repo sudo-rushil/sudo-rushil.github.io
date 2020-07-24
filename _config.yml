@@ -1,7 +1,15 @@
-title: Minimal theme
+title: Rushil Mallarapu
+
 logo: /assets/img/me.png
 icon: /assets/img/favicon.ico
-description: Minimal is a theme for GitHub Pages.
+
+description: I am a rising senior and student researcher in the Greater New York Area.
+
 show_downloads: true
 google_analytics:
+
 theme: jekyll-theme-minimal
+
+collections:
+    pages:
+        output: true
