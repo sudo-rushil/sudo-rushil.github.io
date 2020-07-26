@@ -28,5 +28,5 @@ quicksort :: Ord a => [a] -> [a]
 quicksort []      = []
 quicksort [x]     = [x]
 quicksort (x:xs)  
-    = (filter (<x) xs) ++ [x] ++ (filter (>x) xs)
+    = quicksort (filter (<x) xs) ++ [x] ++ quicksort (filter (>x) xs)
 ```
