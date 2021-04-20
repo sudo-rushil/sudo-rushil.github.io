@@ -8,7 +8,8 @@ _publications, projects, and ponderings_
 
 I'm Rushil Mallarapu
 
-I am a rising senior at Fairfield Ludlowe High School in Fairfield, CT.
+I am an incoming first-year student in the Harvard class of '25.
+~~I am a rising senior at Fairfield Ludlowe High School in Fairfield, CT~~.
 
 Here you can find a list of publications I've worked on, a selection of projects I did, my thoughts on different things I'm working on, and more!
 
