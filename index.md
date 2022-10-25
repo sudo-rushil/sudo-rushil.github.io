@@ -8,8 +8,7 @@ _publications, projects, and ponderings_
 
 I'm Rushil Mallarapu
 
-I am an incoming first-year student in the Harvard class of '25.
-~~I am a rising senior at Fairfield Ludlowe High School in Fairfield, CT~~.
+I am a second-year in the Harvard class of '25.
 
 Here you can find a list of publications I've worked on, a selection of projects I did, my thoughts on different things I'm working on, and more!
 
@@ -20,7 +19,7 @@ You might know me from
 - The Rovis Lab at Columbia University
 - Research Mentorship Program (2019 and 2020) at the University of California, Santa Barbara
 
-Please feel free to contact me through any of the mediums to the left. The easiest way is definitely through emailing me at [rushil.mallarapu@gmail.com](mailto:rushil.mallarapu@gmail.com).
+Please feel free to contact me through any of the mediums to the left. The easiest way is definitely through emailing me at [rushil_mallarapu@college.harvard.edu](mailto:rushil_mallarapu@college.harvard.edu).
 
 ```haskell
 -- The elegant quicksort no one told you about
