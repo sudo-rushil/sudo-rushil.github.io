@@ -25,13 +25,21 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p>If you want to contact me, reach out at <a href="mailto:rushil.mallarapu@gmail.com">rushil.mallarapu@gmail.com</a>!</p>
+        <br/>
 
-        {% for page in site.pages %}
+        <h3>Rushil Mallarapu</h3> 
+
+        <p>I am a second year undergraduate at Harvard studying math and statistics. Broadly, I am interested in homotopy theory and algebraic geometry, but am still learning and branching out!</p>
+
+        <p>Here is my <a href="assets/files/resume.pdf">CV</a>.</p>
+
+        <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
+        <p>Please feel free to contact me!<br/><a href="mailto:rushil_mallarapu@college.harvard.edu">rushil_mallarapu@college.harvard.edu</a>!</p>
+
+        <!-- {% for page in site.pages %}
           <a href="{{ page.url }}">{{ page.title }}</a>
           <br>
-        {% endfor %}
+        {% endfor %} -->
 
         <!-- {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -54,18 +62,18 @@
       {{ content }}
 
       </section>
-      <footer>
+      <!-- <footer>
         <p>Contact me below!</p>
 
         <ul>
           <li><a href="{{ site.github.owner_url }}" title="sudo-rushil">Github</a></li>
           <li><a href="https://www.linkedin.com/in/rushil-mallarapu" title="rushil-mallarapu">LinkedIn</a></li>
-          <li><a href="https://stackoverflow.com/users/13316425/sudo-rushil" title="sudo-rushil">Stack Overflow</a></li>
+           <li><a href="https://stackoverflow.com/users/13316425/sudo-rushil" title="sudo-rushil">Stack Overflow</a></li> 
         </ul>
 
-        <!-- <a href="https://stackoverflow.com/users/sudo-rushil" title="sudo-rushil"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/img/social-icons.svg#stackoverflow' | relative_url }}"></use></svg></a> -->
+         <a href="https://stackoverflow.com/users/sudo-rushil" title="sudo-rushil"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/img/social-icons.svg#stackoverflow' | relative_url }}"></use></svg></a> 
 
-      </footer>
+      </footer>-->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}

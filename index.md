@@ -1,26 +1,74 @@
 ---
 layout: default
 ---
+<script type="text/javascript"
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 
-# Rushil Mallarapu
+<!-- Rushil Mallarapu
 
-_publications, projects, and ponderings_
+I am a second year undergraduate at Harvard studying math and statistics. Broadly, I am interested in homotopy theory and algebraic geometry, but am still learning and branching out!
 
-I'm Rushil Mallarapu
+Here is my [CV](assets/files/resume.pdf).
+ -->
+## Talks
 
-I am a second-year in the Harvard class of '25.
+- [Complex Bordism and Complex Orientations](assets/papers/bordism.pdf), at Chromatic Nullstellensatz Seminar
+- [Bousfield Localizations Before Lunch](assets/papers/localization.pdf), at Kan Seminar.
+- [The May Nilpotence Theorem](assets/papers/nilpotence.pdf), at Juvitop Fall 2022, the MIT graduate topology seminar.
+- [Semi-Simplicial Complexes and Postnikov Systems](assets/papers/sset.pdf), at Kan Seminar.
+- [Proof of Nilpotence Theorem](https://sudo-rushil.github.io/chroma2022/assets/slides/talk8.pdf), at Chroma 2022.
+- [The Ravenel Conjectures and the Chromatic Decomposition](https://sudo-rushil.github.io/chroma2022/assets/slides/talk7.pdf), at Chroma 2022.
+- [Practical Homotopy Colimits](assets/paper/colimits.pdf), for my final presentation for the Spring 2022 Directed Reading Program.
+- [Foundations of $$\infty$$-Operads](https://nataliesstewart.github.io/infty_one/Rushil_Infinity_Seminar_Talk.pdf), at $$(\infty, 1)$$-Seminar.
 
-Here you can find a list of publications I've worked on, a selection of projects I did, my thoughts on different things I'm working on, and more!
+## Teaching and Organizing
 
-You might know me from
+- In Spring 2023, I'll be CAing Math 225, Homological Algebra, with Prof. Yuriy Drozd, and TFing Stat 171, Intro to Stochastic Processes, with Prof. Subhabrata Sen.
+- In Winter 2023, I cotaught [Galois 2023](https://sudo-rushil.github.io/galois2023) with [Yuyuan Luo](https://mit.edu/~lyuyuan/), a 3-week-long intensive course on Galois theory and étale fundamental groups. See [here](https://www.overleaf.com/read/fphsygbcmfkr) for in-progress lecture notes.
+- In Fall 2022, I was TFing Stat 110, Introduction to Probability, with Prof. Joe Blitzstein.
+- In Summer 2022, I organized [Chroma 2022](https://sudo-rushil.github.io/chroma2022), a summer seminar on chromatic homotopy theory!
 
-- Fairfield Ludlowe Rocketry Team
-- Southport Enrichment Club
-- The Rovis Lab at Columbia University
-- Research Mentorship Program (2019 and 2020) at the University of California, Santa Barbara
+## Writings
 
-Please feel free to contact me through any of the mediums to the left. The easiest way is definitely through emailing me at [rushil_mallarapu@college.harvard.edu](mailto:rushil_mallarapu@college.harvard.edu).
+- [THH and Bökstedt Periodicity](assets/papers/thh.pdf): final paper on topological Hochschild homology and the proof of Bökstedt periodicity, for the Fall 2022 Directed Reading Program.
+- [The Motivic Purity Theorem](assets/papers/motives.pdf): expository paper on the statement and proof of the motivic purity theorem, the analog of the tubular neighborhood theorem in motivic homotopy theory, for Math 272Z.
+- [Fast times at $$\mathcal{M}_{fg}$$](assets/papers/mfg.pdf): final paper on moduli stack of formal groups for Math 99R, Moduli Problems and Stacks.
+- [Tensors at Twilight](assets/papers/tensors.pdf): class notes for a lecture on tensor products I gave for Math 55 students.
 
+## Selected Coursework
+
+Spring 2023:
+
+- Math 222, Algebraic Groups
+- MIT 18.726, Algebraic Geometry II
+- MIT 18.917, Knots and Primes
+- Stat 111, Intro to Statistical Inference
+- Stat 91R, Math in Statistics Reading Group
+
+Fall 2022:
+
+- Math 99R, Moduli Problems and Stacks
+- Math 272Z, Motives at $$p$$
+- MIT 18.919, Graduate Topology Seminar (Kan Seminar)
+- Stat 210, Probability I
+
+Spring 2022:
+
+- Math 55B, Studies in Real and Complex Analysis
+- Math 231BR, Advanced Algebraic Topology
+- Stat 171, Intro to Stochastic Processes
+
+Fall 2021:
+
+- Math 55A, Studies in Algebra and Group Theory
+- Stat 110, Intro to Probability
+
+
+
+<!-- Please feel free to contact me! My email is [rushil_mallarapu@college.harvard.edu](mailto:rushil_mallarapu@college.harvard.edu).
+ -->
+<!-- 
 ```haskell
 -- The elegant quicksort no one told you about
 
@@ -30,3 +78,4 @@ quicksort [x]     = [x]
 quicksort (x:xs)  
     = quicksort (filter (<x) xs) ++ [x] ++ quicksort (filter (>x) xs)
 ```
+ -->
