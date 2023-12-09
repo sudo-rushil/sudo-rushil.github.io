@@ -13,7 +13,10 @@ Here is my [CV](assets/files/resume.pdf).
  -->
 ## Talks
 
-- [Complex Bordism and Complex Orientations](assets/papers/bordism.pdf), at Chromatic Nullstellensatz Seminar
+
+- [Itô Diffusions and the Dirichlet Problem](assets/papers/stoch.pdf), at Babytop Fall 2023.
+- [Abelian Varieties and the Serre-Tate Theorem](assets/papers/abelvar.pdf), at Babytop Fall 2023.
+- [Complex Bordism and Complex Orientations](assets/papers/bordism.pdf), at Chromatic Nullstellensatz Seminar.
 - [Bousfield Localizations Before Lunch](assets/papers/localization.pdf), at Kan Seminar.
 - [The May Nilpotence Theorem](assets/papers/nilpotence.pdf), at Juvitop Fall 2022, the MIT graduate topology seminar.
 - [Semi-Simplicial Complexes and Postnikov Systems](assets/papers/sset.pdf), at Kan Seminar.
