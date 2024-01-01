@@ -11,38 +11,46 @@ I am a second year undergraduate at Harvard studying math and statistics. Broadl
 
 Here is my [CV](assets/files/resume.pdf).
  -->
-## Talks
+## Talks and Writing
 
-
-- [Itô Diffusions and the Dirichlet Problem](assets/papers/stoch.pdf), at Babytop Fall 2023.
+- [A Walk Through the Weil Conjectures](assets/papers/weil.pdf), for the Fall 2023 Directed Reading Program.
+- [Itô Diffusions and the Dirichlet Problem](assets/papers/stoch.pdf), for my final presentation for Math 289Y: Topics in Geometric PDE.
 - [Abelian Varieties and the Serre-Tate Theorem](assets/papers/abelvar.pdf), at Babytop Fall 2023.
 - [Complex Bordism and Complex Orientations](assets/papers/bordism.pdf), at Chromatic Nullstellensatz Seminar.
+- [THH and Bökstedt Periodicity](assets/papers/thh.pdf): for the Fall 2022 Directed Reading Program.
+- [The Motivic Purity Theorem](assets/papers/motives.pdf): for my final paper for homotopy theory, for Math 272Z: Motives at $$p$$.
+- [Fast times at $$\mathcal{M}_{fg}$$](assets/papers/mfg.pdf), for my final paper for Math 99R: Moduli Problems and Stacks.
+- [Tensors at Twilight](assets/papers/tensors.pdf), for a masterclass on tensors for Math 55.
 - [Bousfield Localizations Before Lunch](assets/papers/localization.pdf), at Kan Seminar.
 - [The May Nilpotence Theorem](assets/papers/nilpotence.pdf), at Juvitop Fall 2022, the MIT graduate topology seminar.
 - [Semi-Simplicial Complexes and Postnikov Systems](assets/papers/sset.pdf), at Kan Seminar.
 - [Proof of Nilpotence Theorem](https://sudo-rushil.github.io/chroma2022/assets/slides/talk8.pdf), at Chroma 2022.
 - [The Ravenel Conjectures and the Chromatic Decomposition](https://sudo-rushil.github.io/chroma2022/assets/slides/talk7.pdf), at Chroma 2022.
-- [Practical Homotopy Colimits](assets/paper/colimits.pdf), for my final presentation for the Spring 2022 Directed Reading Program.
+- [Practical Homotopy Colimits](assets/paper/colimits.pdf), for the Spring 2022 Directed Reading Program.
 - [Foundations of $$\infty$$-Operads](https://nataliesstewart.github.io/infty_one/Rushil_Infinity_Seminar_Talk.pdf), at $$(\infty, 1)$$-Seminar.
+
 
 ## Teaching and Organizing
 
-- In Fall 2023, I am TFing Stat 110, Introduction to Probability, with Prof. Joe Blitzstein.
+- In Spring 2024, I am TFing Stat 171, Intro to Stochastic Processes, with Prof. Subhabrata Sen.
+- In Fall 2023, I was TFing Stat 110, Introduction to Probability, with Prof. Joe Blitzstein.
 - In Summer 2023, I was at the [UChicago Mathematics REU](http://math.uchicago.edu/~may/REU2023/), working on motivic homotopy theory with Prof. Peter May and Prof. Mark Behrens.
 - In Spring 2023, I was CAing Math 101, Introduction to Proof, with Prof. Janet Chen, and TFing Stat 171, Intro to Stochastic Processes, with Prof. Subhabrata Sen.
 - In Winter 2023, I cotaught [Galois 2023](https://sudo-rushil.github.io/galois2023) with [Yuyuan Luo](https://mit.edu/~lyuyuan/), a 3-week-long intensive course on Galois theory and étale fundamental groups. See [here](https://www.overleaf.com/read/fphsygbcmfkr) for in-progress lecture notes.
 - In Fall 2022, I was TFing Stat 110, Introduction to Probability, with Prof. Joe Blitzstein.
 - In Summer 2022, I organized [Chroma 2022](https://sudo-rushil.github.io/chroma2022), a summer seminar on chromatic homotopy theory!
 
-## Writings
-
-- [THH and Bökstedt Periodicity](assets/papers/thh.pdf): final paper on topological Hochschild homology and the proof of Bökstedt periodicity, for the Fall 2022 Directed Reading Program.
-- [The Motivic Purity Theorem](assets/papers/motives.pdf): expository paper on the statement and proof of the motivic purity theorem, the analog of the tubular neighborhood theorem in motivic homotopy theory, for Math 272Z.
-- [Fast times at $$\mathcal{M}_{fg}$$](assets/papers/mfg.pdf): final paper on moduli stack of formal groups for Math 99R, Moduli Problems and Stacks.
-- [Tensors at Twilight](assets/papers/tensors.pdf): class notes for a lecture on tensor products I gave for Math 55 students.
 
 ## Selected Coursework
 
+Spring 2024:
+
+- Math 99R, Integrable Systems
+- Math 213BR, Riemann Surfaces
+- Math 256X, The Telescope Conjecture
+- MIT 18.676, Stochastic Calculus
+- Stat 291, Random High-Dimensional Optimization
+- Econ 1723, Capital Markets
 
 Fall 2023:
 
@@ -50,6 +58,7 @@ Fall 2023:
 - Math 293X, Topological Modular Forms
 - MIT 18.965, Geometry of Manifolds
 - Stat 211, Graduate Inference I
+
 Spring 2023:
 
 - Math 222, Algebraic Groups
@@ -69,13 +78,14 @@ Spring 2022:
 
 - Math 55B, Studies in Real and Complex Analysis
 - Math 231BR, Advanced Algebraic Topology
+- Stat 123, Applied Quantitative Finance
 - Stat 171, Intro to Stochastic Processes
 
 Fall 2021:
 
 - Math 55A, Studies in Algebra and Group Theory
 - Stat 110, Intro to Probability
-
+- Econ 1011A, Intro to Microeconomics
 
 
 <!-- Please feel free to contact me! My email is [rushil_mallarapu@college.harvard.edu](mailto:rushil_mallarapu@college.harvard.edu).
