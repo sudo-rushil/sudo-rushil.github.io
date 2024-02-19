@@ -13,6 +13,7 @@ Here is my [CV](assets/files/resume.pdf).
  -->
 ## Talks and Writing
 
+- [A Condensed Intro to Condensed Math](assets/papers/condense.pdf), at Babytop Spring 2024.
 - [A Walk Through the Weil Conjectures](assets/papers/weil.pdf), for the Fall 2023 Directed Reading Program.
 - [Itô Diffusions and the Dirichlet Problem](assets/papers/stoch.pdf), for my final presentation for Math 289Y: Topics in Geometric PDE.
 - [Abelian Varieties and the Serre-Tate Theorem](assets/papers/abelvar.pdf), at Babytop Fall 2023.
