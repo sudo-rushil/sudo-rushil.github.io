@@ -43,7 +43,7 @@ Here is my [CV](assets/files/resume.pdf).
 - In Fall 2023, I was TFing Stat 110, Introduction to Probability, with Prof. Joe Blitzstein.
 - In Summer 2023, I was at the [UChicago Mathematics REU](http://math.uchicago.edu/~may/REU2023/), working on motivic homotopy theory with Prof. Peter May and Prof. Mark Behrens.
 - In Spring 2023, I was CAing Math 101, Introduction to Proof, with Prof. Janet Chen, and TFing Stat 171, Intro to Stochastic Processes, with Prof. Subhabrata Sen.
-- In Winter 2023, I cotaught [Galois 2023](https://sudo-rushil.github.io/galois2023) with [Yuyuan Luo](https://mit.edu/~lyuyuan/), a 3-week-long intensive course on Galois theory and étale fundamental groups. See [here](https://www.overleaf.com/read/fphsygbcmfkr) for in-progress lecture notes.
+- In Winter 2023, I cotaught [Galois 2023](https://sudo-rushil.github.io/galois2023) with [Yuyuan Luo](https://yuyuan-luo.github.io/), a 3-week-long intensive course on Galois theory and étale fundamental groups. See [here](https://www.overleaf.com/read/fphsygbcmfkr) for in-progress lecture notes.
 - In Fall 2022, I was TFing Stat 110, Introduction to Probability, with Prof. Joe Blitzstein.
 - In Summer 2022, I organized [Chroma 2022](https://sudo-rushil.github.io/chroma2022), a summer seminar on chromatic homotopy theory!
 
