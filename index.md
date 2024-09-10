@@ -48,6 +48,10 @@ Here is my [CV](assets/files/resume.pdf).
 - In Summer 2022, I organized [Chroma 2022](https://sudo-rushil.github.io/chroma2022), a summer seminar on chromatic homotopy theory!
 
 
+## Links to Useful Things
+
+- [Jacob Lurie's chromatic homotopy theory notes, with bookmarks](assets/papers/Lurie-ChromaticHomotopyTheory.pdf)
+
 ## Selected Coursework
 
 Spring 2024:
