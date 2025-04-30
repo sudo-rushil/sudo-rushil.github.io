@@ -4,6 +4,9 @@ logo: /assets/img/me.png
 icon: /assets/img/favicon.ico
 
 # description: I am a second year undergraduate at Harvard studying math and statistics!
+#
+
+repository: sudo-rushil/sudo-rushil.github.io
 
 show_downloads: true
 google_analytics:
